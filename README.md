@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, Neel here!</h1>
 <h3 align="center">A passionate Software Developer who loves to solve problem.</h3>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=neelsave alt=neelsave/> </p>
+
 - 🔭 I’m currently working on Dealer Stock Management (Application used by SCANIA dealers all over the world)
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about Java, Python, AWS
