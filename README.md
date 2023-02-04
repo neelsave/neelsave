@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/neel-save-193820178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelsave10" height="30" width="40" /></a>
-<a href="mailto:neelsave10@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw2H0Tcwq3IMKnCYXKTWrnU1&ust=1675585320473000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIij8u-3-_wCFQAAAAAdAAAAABAE" alt="neelsave10" height="30" width="40" /></a>
+<a href="mailto:neelsave10@gmail.com" target="blank"><img align="center" src="https://github.com/neelsave/neelsave/blob/main/Gmail-logo.png" alt="neelsave10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/neel_save" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neelsave10" height="30" width="40" /></a>
 <a href="https://leetcode.com/neelsave10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelsave10" height="30" width="40" /></a>
 </p>
