@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Neel here!</h1>
-<h3 align="center">A passionate Software Developer who loves to solve problem.</h3>
+<h3 align="center">A passionate Software Developer who loves to solve problems.</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=neelsave alt=neelsave/> </p>
 
