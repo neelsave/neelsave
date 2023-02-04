@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Dealer Stock Management (Application used by SCANIA dealers all over the world)
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about Java, Python, AWS
+- <a href="https://drive.google.com/file/d/1aBOBdI13ze05VywDNqxBd_R8DPWnaU_t/view?usp=sharing" target="_blank" rel="noopener noreferrer"> My Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
