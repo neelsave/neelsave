@@ -3,9 +3,9 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=neelsave alt=neelsave/> </p>
 
-- 🔭 I’m currently working on Dealer Stock Management (Application used by SCANIA dealers all over the world)
-- 🌱 I’m currently learning AWS
-- 💬 Ask me about Java, Python, AWS
+- 🔭 I’m a Software Engineer at Volkswagen
+- 🌱 I’m currently exploring AWS, Java, Springboot, Docker, kubernetes.
+- 💬 You can ping me for any doubts I will be happy to help - neelsave10@gmail.com
 - 📕 <a href="https://drive.google.com/file/d/1v-GVjqYdmUkmiU0qqHfiSr8wH5N62ud4/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> My Resume </a>
 
 <h3 align="left">Connect with me:</h3>
